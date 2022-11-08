@@ -11,7 +11,7 @@
 <br>
 
 ```python
-class HesamNejati():
+class HessamNejati():
     
   def __init__(self):
     self.name = "Hesam Nejati";
