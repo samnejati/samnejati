@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Hesam Nejati</b>
+  <b>Hessam Nejati</b>
   
 </h1>
 <br>
@@ -11,13 +11,13 @@
 <br>
 
 ```python
-class HesamNejati():
+class HessamNejati():
     
   def __init__(self):
-    self.name = "Hesam Nejati";
+    self.name = "Hessam Nejati";
     self.username = "samnejati";
     self.location = "California";
-    self.web = "https://hesamnejati.com";
+    self.web = "https://hesamsnejati.com";
   
   def __str__(self):
     return self.name
